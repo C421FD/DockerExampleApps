@@ -1,6 +1,231 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="RunManager" selected=".NET Project.ServiceB">
+  <component name="ChangeListManager">
+    <list default="true" id="1ebb507a-1c0e-4e69-8a08-ab744e31a30e" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/ServiceA/Controllers/ValuesController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ServiceA/Controllers/ValuesController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServiceB/Controllers/ValuesController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ServiceB/Controllers/ValuesController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServiceB/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ServiceB/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServiceC/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ServiceC/Program.cs" afterDir="false" />
+    </list>
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="ValuesController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ServiceA/Controllers/ValuesController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="15" column="67" selection-start-line="15" selection-start-column="67" selection-end-line="15" selection-end-column="67" />
+              <folding>
+                <marker date="1522156985905" expanded="false" signature="6:84" ph="..." />
+                <marker date="1522156985905" expanded="true" signature="116:493" ph="{...}" />
+                <marker date="1522156985905" expanded="true" signature="193:491" ph="{...}" />
+                <marker date="1522156985905" expanded="true" signature="269:487" ph="{...}" />
+                <marker date="1522156985905" expanded="true" signature="323:481" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="appsettings.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ServiceB/appsettings.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="ValuesController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ServiceB/Controllers/ValuesController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="15" column="67" selection-start-line="15" selection-start-column="67" selection-end-line="15" selection-end-column="67" />
+              <folding>
+                <marker date="1522156997319" expanded="false" signature="6:84" ph="..." />
+                <marker date="1522156997319" expanded="true" signature="116:493" ph="{...}" />
+                <marker date="1522156997319" expanded="true" signature="193:491" ph="{...}" />
+                <marker date="1522156997319" expanded="true" signature="269:487" ph="{...}" />
+                <marker date="1522156997319" expanded="true" signature="323:481" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Startup.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ServiceB/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+              <folding>
+                <marker date="1522155084541" expanded="false" signature="6:161" ph="..." />
+                <marker date="1522155084541" expanded="true" signature="181:868" ph="{...}" />
+                <marker date="1522155084541" expanded="true" signature="206:866" ph="{...}" />
+                <marker date="1522155084541" expanded="true" signature="259:313" ph="{...}" />
+                <marker date="1522155084541" expanded="true" signature="524:561" ph="{...}" />
+                <marker date="1522155084541" expanded="true" signature="741:862" ph="{...}" />
+                <marker date="1522155084541" expanded="true" signature="778:835" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ServiceB/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+              <folding>
+                <marker date="1522157009375" expanded="false" signature="6:63" ph="..." />
+                <marker date="1522157009375" expanded="true" signature="83:398" ph="{...}" />
+                <marker date="1522157009375" expanded="true" signature="108:396" ph="{...}" />
+                <marker date="1522157009375" expanded="true" signature="155:199" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Startup.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ServiceC/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+              <folding>
+                <marker date="1522155731234" expanded="false" signature="6:161" ph="..." />
+                <marker date="1522155731234" expanded="true" signature="181:868" ph="{...}" />
+                <marker date="1522155731234" expanded="true" signature="206:866" ph="{...}" />
+                <marker date="1522155731234" expanded="true" signature="259:313" ph="{...}" />
+                <marker date="1522155731234" expanded="true" signature="524:561" ph="{...}" />
+                <marker date="1522155731234" expanded="true" signature="741:862" ph="{...}" />
+                <marker date="1522155731234" expanded="true" signature="778:835" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ServiceC/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+              <folding>
+                <marker date="1522157022862" expanded="false" signature="6:63" ph="..." />
+                <marker date="1522157022862" expanded="true" signature="83:398" ph="{...}" />
+                <marker date="1522157022862" expanded="true" signature="108:396" ph="{...}" />
+                <marker date="1522157022862" expanded="true" signature="155:199" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ServiceA/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="35" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
+              <folding>
+                <marker date="1522154944059" expanded="true" signature="6:63" ph="..." />
+                <marker date="1522154944059" expanded="true" signature="83:354" ph="{...}" />
+                <marker date="1522154944059" expanded="true" signature="108:352" ph="{...}" />
+                <marker date="1522154944059" expanded="true" signature="155:199" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ServiceB/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ServiceC/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ServiceB/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ServiceC/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ServiceA/Controllers/ValuesController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ServiceA/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ServiceA/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ServiceB/Controllers/ValuesController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ServiceC/Controllers/ValuesController.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ServiceA/Controllers/ValuesController.cs" />
+        <option value="$PROJECT_DIR$/ServiceB/Controllers/ValuesController.cs" />
+        <option value="$PROJECT_DIR$/ServiceB/Program.cs" />
+        <option value="$PROJECT_DIR$/ServiceC/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="DockerMicroservicesExample (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="DockerMicroservicesExample (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ServiceA" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="DockerMicroservicesExample (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ServiceA" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Controllers" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="DockerMicroservicesExample (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ServiceB" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="DockerMicroservicesExample (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ServiceB" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Controllers" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="DockerMicroservicesExample (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ServiceC" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.ServiceA">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -65,10 +290,231 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue=".NET Project.ServiceB" />
         <item itemvalue=".NET Project.ServiceA" />
+        <item itemvalue=".NET Project.ServiceB" />
         <item itemvalue=".NET Project.ServiceC" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d25a6e39-13fb-42a8-a5fd-56670ba8efff" name="Default" comment="" />
+      <created>1522153723379</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522153723379</updated>
+      <workItem from="1522153727701" duration="3080000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="358000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" weight="0.3296875" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.525" side_tool="true" weight="0.2342918" />
+      <window_info anchor="bottom" id="Unit Tests" order="17" weight="0.42777777" />
+      <window_info anchor="bottom" x="719" y="269" width="480" height="508" id="Version Control" order="9" sideWeight="0.48903966" weight="0.39130434" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32767764" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.33077765" />
+      <window_info anchor="bottom" id="NuGet" order="13" sideWeight="0.51096034" side_tool="true" weight="0.23548387" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49542484" visible="true" weight="0.190625" />
+      <window_info anchor="bottom" id="Docker" order="18" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="8" sideWeight="0.490625" weight="0.22427185" />
+      <window_info anchor="right" id="Database" order="5" weight="0.20330843" />
+      <window_info anchor="right" id="Structure" order="6" sideWeight="0.5045752" side_tool="true" visible="true" weight="0.2359375" />
+      <window_info id="Favorites" order="1" sideWeight="0.5037274" side_tool="true" weight="0.23645833" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.553125" weight="0.3475728" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Run Dashboard" order="15" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Errors in solution" order="4" />
+      <window_info anchor="bottom" id="Inspection Results" order="16" side_tool="true" />
+      <window_info anchor="bottom" id="REST Client" order="19" weight="0.32978722" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.475" weight="0.25728154" />
+      <window_info anchor="bottom" id="UnitTesting" order="10" sideWeight="0.49359658" weight="0.18756816" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Change Signature" order="14" side_tool="true" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/DockerMicroservicesExample.sln">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ServiceA/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <folding>
+            <marker date="1522154944051" expanded="true" signature="6:161" ph="..." />
+            <marker date="1522154944051" expanded="true" signature="181:868" ph="{...}" />
+            <marker date="1522154944051" expanded="true" signature="206:866" ph="{...}" />
+            <marker date="1522154944051" expanded="true" signature="259:313" ph="{...}" />
+            <marker date="1522154944051" expanded="true" signature="524:561" ph="{...}" />
+            <marker date="1522154944051" expanded="true" signature="741:862" ph="{...}" />
+            <marker date="1522154944051" expanded="true" signature="778:835" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ServiceB/appsettings.Development.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ServiceC/appsettings.Development.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ServiceC/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ServiceC/Controllers/ValuesController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1522155781791" expanded="true" signature="63:260" ph="{...}" />
+            <marker date="1522155781791" expanded="true" signature="140:258" ph="{...}" />
+            <marker date="1522155781791" expanded="true" signature="204:254" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ServiceB/Controllers/ValuesController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="67" selection-start-line="15" selection-start-column="67" selection-end-line="15" selection-end-column="67" />
+          <folding>
+            <marker date="1522156997319" expanded="false" signature="6:84" ph="..." />
+            <marker date="1522156997319" expanded="true" signature="116:493" ph="{...}" />
+            <marker date="1522156997319" expanded="true" signature="193:491" ph="{...}" />
+            <marker date="1522156997319" expanded="true" signature="269:487" ph="{...}" />
+            <marker date="1522156997319" expanded="true" signature="323:481" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ServiceB/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          <folding>
+            <marker date="1522155084541" expanded="false" signature="6:161" ph="..." />
+            <marker date="1522155084541" expanded="true" signature="181:868" ph="{...}" />
+            <marker date="1522155084541" expanded="true" signature="206:866" ph="{...}" />
+            <marker date="1522155084541" expanded="true" signature="259:313" ph="{...}" />
+            <marker date="1522155084541" expanded="true" signature="524:561" ph="{...}" />
+            <marker date="1522155084541" expanded="true" signature="741:862" ph="{...}" />
+            <marker date="1522155084541" expanded="true" signature="778:835" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ServiceA/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="35" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
+          <folding>
+            <marker date="1522154944059" expanded="true" signature="6:63" ph="..." />
+            <marker date="1522154944059" expanded="true" signature="83:354" ph="{...}" />
+            <marker date="1522154944059" expanded="true" signature="108:352" ph="{...}" />
+            <marker date="1522154944059" expanded="true" signature="155:199" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ServiceA/Controllers/ValuesController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="67" selection-start-line="15" selection-start-column="67" selection-end-line="15" selection-end-column="67" />
+          <folding>
+            <marker date="1522156985905" expanded="false" signature="6:84" ph="..." />
+            <marker date="1522156985905" expanded="true" signature="116:493" ph="{...}" />
+            <marker date="1522156985905" expanded="true" signature="193:491" ph="{...}" />
+            <marker date="1522156985905" expanded="true" signature="269:487" ph="{...}" />
+            <marker date="1522156985905" expanded="true" signature="323:481" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ServiceB/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ServiceB/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+          <folding>
+            <marker date="1522157009375" expanded="false" signature="6:63" ph="..." />
+            <marker date="1522157009375" expanded="true" signature="83:398" ph="{...}" />
+            <marker date="1522157009375" expanded="true" signature="108:396" ph="{...}" />
+            <marker date="1522157009375" expanded="true" signature="155:199" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ServiceC/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <marker date="1522155731234" expanded="false" signature="6:161" ph="..." />
+            <marker date="1522155731234" expanded="true" signature="181:868" ph="{...}" />
+            <marker date="1522155731234" expanded="true" signature="206:866" ph="{...}" />
+            <marker date="1522155731234" expanded="true" signature="259:313" ph="{...}" />
+            <marker date="1522155731234" expanded="true" signature="524:561" ph="{...}" />
+            <marker date="1522155731234" expanded="true" signature="741:862" ph="{...}" />
+            <marker date="1522155731234" expanded="true" signature="778:835" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ServiceC/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+          <folding>
+            <marker date="1522157022862" expanded="false" signature="6:63" ph="..." />
+            <marker date="1522157022862" expanded="true" signature="83:398" ph="{...}" />
+            <marker date="1522157022862" expanded="true" signature="108:396" ph="{...}" />
+            <marker date="1522157022862" expanded="true" signature="155:199" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

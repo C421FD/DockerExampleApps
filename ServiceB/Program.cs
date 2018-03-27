@@ -13,7 +13,7 @@ namespace ServiceB
     public static IWebHost BuildWebHost(string[] args) =>
       WebHost.CreateDefaultBuilder(args)
         .UseStartup<Startup>()
-        .UseUrls("http://localhost:10001/")
+        .UseUrls("http://localhost:15001/")
         .Build();
   }
 }

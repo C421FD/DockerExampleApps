@@ -13,7 +13,7 @@ namespace ServiceC
     public static IWebHost BuildWebHost(string[] args) =>
       WebHost.CreateDefaultBuilder(args)
         .UseStartup<Startup>()
-        .UseUrls("http://localhost:20001/")
+        .UseUrls("http://localhost:25001/")
         .Build();
   }
 }
