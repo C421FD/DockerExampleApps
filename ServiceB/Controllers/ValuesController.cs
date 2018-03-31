@@ -13,7 +13,7 @@ namespace ServiceB.Controllers
     {
       using (var httpClient = new HttpClient())
       {
-        var result = await httpClient.GetAsync("http://localhost:25001/api/values");
+        var result = await httpClient.GetAsync("http://172.17.0.12:32000/api/values");
         return await result.Content.ReadAsStringAsync();
       }
     }
